@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/abandoned-industries/.github/raw/main/profile/abandoned_industries.jpeg" alt="Abandoned Industries" width="200">
+  <img src="https://github.com/abandoned-industries/.github/raw/main/profile/abandoned industries.jpeg" alt="Abandoned Industries" width="200">
 </p>
 
 # Abandoned Industries

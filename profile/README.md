@@ -4,15 +4,14 @@
 
 # Abandoned Industries
 
-**Reviving abandoned software for academics, intellectuals, and anyone who misses when software just worked.**
+**Reviving abandoned software for academics, intellectuals, and anybody else.**
 
 ---
 
-We use [Claude Code](https://claude.ai) to resurrect useful applications that have been left behind by the relentless march of progress—particularly tools that once served researchers, writers, archivists, and anyone who values function over fashion.
+I use [Claude Code](https://claude.ai) to resurrect useful applications that have been left behind by the relentless march of progress—particularly tools that once served researchers, writers, and intellectuals.
 
-Remember when the internet was weird and generous? When people built things because they were useful, shared them because information wanted to be free, and didn't need a business model? We're channeling that spirit. Think GeoCities pages with blinking text and guestbooks. Think blogs before they became "content." Think shareware with honor-system registration.
 
-We're not trying to make money. We're not trying to take over anyone's project. If you're the original developer of something we've forked and you'd prefer we didn't, just let us know—we'll take it down, no questions asked.
+I'm not trying to make money. I'm not trying to take over anyone's project. If you're the original developer of something Iforked and you'd prefer I didn't, just let us know—I'll take it down. 
 
 **Current focus:** Mac applications orphaned by the transition to Apple Silicon.
 

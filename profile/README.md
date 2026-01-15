@@ -11,7 +11,7 @@
 I use [Claude Code](https://claude.ai) to resurrect useful applications that have been left behind by the relentless march of progress—particularly tools that once served researchers, writers, and intellectuals.
 
 
-I'm not trying to make money. I'm not trying to take over anyone's project. If you're the original developer of something Iforked and you'd prefer I didn't, just let me know—I'll take it down. 
+I'm not trying to make money. I'm not trying to take over anyone's project. 
 
 **Current focus:** Mac applications orphaned by the transition to Apple Silicon.
 
